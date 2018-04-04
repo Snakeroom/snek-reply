@@ -1,0 +1,13 @@
+{
+    "username": "",
+    "password": "",
+    "app_id": "",
+    "api_secret": "",
+    "platform": "Puppy Linux",
+    "owner": "/u/spez",
+    "automatic_retries": true,
+    "api_requests_per_minute": 60,
+    "reply_message": "",
+    "trigger": "",
+    "subreddit": "CircleOfTrust"
+}
